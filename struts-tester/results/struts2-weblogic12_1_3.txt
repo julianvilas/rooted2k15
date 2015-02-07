@@ -1,0 +1,8 @@
+.class.superclass.classLoader.childFirst
+.class.superclass.classLoader.defaultAssertionStatus
+.class.superclass.classLoader.classFinder.finders.class.classLoader.defaultAssertionStatus
+.class.superclass.classLoader.classFinder.finders.class.classLoader.parent.defaultAssertionStatus
+.class.superclass.classLoader.parent.defaultAssertionStatus
+.class.superclass.classLoader.parent.parent.resourceInternalSearch
+.class.superclass.classLoader.parent.parent.defaultAssertionStatus
+.class.superclass.classLoader.parent.parent.parent.defaultAssertionStatus

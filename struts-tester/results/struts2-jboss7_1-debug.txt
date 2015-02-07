@@ -1,0 +1,94 @@
+-------------------------org.jboss.modules.ModuleClassLoader
+Candidate: .class.superclass.classLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$AppClassLoader
+Candidate: .class.superclass.classLoader.module.moduleLoader.class.superclass.classLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$ExtClassLoader
+Candidate: .class.superclass.classLoader.module.moduleLoader.class.superclass.classLoader.parent.defaultAssertionStatus
+-------------------------org.jboss.modules.ModuleClassLoader
+Candidate: .class.superclass.classLoader.module.moduleLoader.class.classLoader.defaultAssertionStatus
+-------------------------org.jboss.modules.ModuleClassLoader
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.parentFiles.class.componentType.classLoader.defaultAssertionStatus
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.parentFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.parentFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.parentFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.parentFile.parentFile.parentFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.executable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.readable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.writable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.physicalFile.parentFile.parentFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.parent.parent.parent.physicalFile.executable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.parent.parent.parent.physicalFile.readable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.parent.parent.parent.physicalFile.writable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.parent.parent.parent.physicalFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.parent.parent.parent.physicalFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.protectionDomain.codeSource.location.content.parent.parent.parent.physicalFile.parentFile.writable

@@ -1,0 +1,46 @@
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.searchExternalFirst
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.jarPath
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesLogFactoryRelease
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.antiJARLocking
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesStatic
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesStopThreads
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesStopTimerThreads
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesHttpClientKeepAliveThread
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.delegate
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.defaultAssertionStatus
+-------------------------org.apache.naming.resources.FileDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.docBase
+-------------------------org.apache.naming.resources.FileDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.allowLinking
+-------------------------org.apache.naming.resources.FileDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.cacheTTL
+-------------------------org.apache.naming.resources.FileDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.cacheMaxSize
+-------------------------org.apache.naming.resources.FileDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.cacheObjectMaxSize
+-------------------------org.apache.naming.resources.FileDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.aliases
+-------------------------org.apache.naming.resources.FileDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.cached
+-------------------------org.apache.catalina.loader.StandardClassLoader
+Candidate: .class.superclass.classLoader.resources.dirContext.class.superclass.classLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$AppClassLoader
+Candidate: .class.superclass.classLoader.resources.dirContext.class.superclass.classLoader.systemClassLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$ExtClassLoader
+Candidate: .class.superclass.classLoader.resources.dirContext.class.superclass.classLoader.systemClassLoader.parent.defaultAssertionStatus
+-------------------------org.apache.naming.resources.ResourceCache
+Candidate: .class.superclass.classLoader.resources.cache.maxAllocateIterations
+-------------------------org.apache.naming.resources.ResourceCache
+Candidate: .class.superclass.classLoader.resources.cache.spareNotFoundEntries
+-------------------------org.apache.naming.resources.ResourceCache
+Candidate: .class.superclass.classLoader.resources.cache.cacheMaxSize

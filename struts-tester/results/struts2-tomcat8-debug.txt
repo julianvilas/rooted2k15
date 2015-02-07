@@ -1,0 +1,508 @@
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesStatic
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesStopThreads
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesStopTimerThreads
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesHttpClientKeepAliveThread
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesLogFactoryRelease
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.delegate
+-------------------------org.apache.catalina.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.defaultAssertionStatus
+-------------------------org.apache.catalina.webresources.StandardRoot
+Candidate: .class.superclass.classLoader.resources.allowLinking
+-------------------------org.apache.catalina.webresources.StandardRoot
+Candidate: .class.superclass.classLoader.resources.cachingAllowed
+-------------------------org.apache.catalina.webresources.StandardRoot
+Candidate: .class.superclass.classLoader.resources.cacheObjectMaxSize
+-------------------------org.apache.catalina.webresources.StandardRoot
+Candidate: .class.superclass.classLoader.resources.trackLockedFiles
+-------------------------org.apache.catalina.webresources.StandardRoot
+Candidate: .class.superclass.classLoader.resources.domain
+-------------------------java.net.URLClassLoader
+Candidate: .class.superclass.classLoader.resources.preResources.class.componentType.classLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$AppClassLoader
+Candidate: .class.superclass.classLoader.resources.preResources.class.componentType.classLoader.systemClassLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$ExtClassLoader
+Candidate: .class.superclass.classLoader.resources.preResources.class.componentType.classLoader.systemClassLoader.parent.defaultAssertionStatus
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.path
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.antiResourceLocking
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.defaultContextXml
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.defaultWebXml
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.j2EEApplication
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.j2EEServer
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.originalDocBase
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.replaceWelcomeFiles
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.unpackWAR
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.jndiExceptionOnFailedWrite
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.charsetMapperClass
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.clearReferencesStatic
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.clearReferencesStopThreads
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.clearReferencesStopTimerThreads
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.clearReferencesHttpClientKeepAliveThread
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.renewThreadsWhenStoppingContext
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.server
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.useNaming
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.publicId
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.override
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.sessionCookieDomain
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.sessionCookiePath
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.sessionCookiePathUsesTrailingSlash
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.altDDName
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.crossContext
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.denyUncoveredHttpMethods
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.displayName
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.distributable
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.docBase
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.ignoreAnnotations
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.reloadable
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.allowCasualMultipartParsing
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.configured
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.cookies
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.sessionCookieName
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.useHttpOnly
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.privileged
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.sessionTimeout
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.swallowAbortedUploads
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.swallowOutput
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.wrapperClass
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.xmlNamespaceAware
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.xmlValidation
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.xmlBlockExternal
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.tldValidation
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.logEffectiveWebXml
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.containerSciFilter
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.effectiveMajorVersion
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.effectiveMinorVersion
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.resourceOnlyServlets
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.webappVersion
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.fireRequestListenersOnForwards
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.preemptiveAuthentication
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.sendRedirectBody
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.addWebinfClassesResources
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.copyXML
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.workDir
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.delegate
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.backgroundProcessorDelay
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.startStopThreads
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.startChildren
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.name
+-------------------------org.apache.catalina.core.StandardContext
+Candidate: .class.superclass.classLoader.resources.context.domain
+-------------------------org.apache.catalina.core.NamingContextListener
+Candidate: .class.superclass.classLoader.resources.context.namingContextListener.exceptionOnFailedWrite
+-------------------------org.apache.catalina.core.NamingContextListener
+Candidate: .class.superclass.classLoader.resources.context.namingContextListener.name
+-------------------------org.apache.naming.NamingContext
+Candidate: .class.superclass.classLoader.resources.context.namingContextListener.envContext.exceptionOnFailedWrite
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.pathname
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.processExpiresFrequency
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.duplicates
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.maxActiveSessions
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.secureRandomClass
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.secureRandomAlgorithm
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.secureRandomProvider
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.distributable
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.maxInactiveInterval
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.sessionIdLength
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.maxActive
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.sessionMaxAliveTime
+-------------------------org.apache.catalina.session.StandardManager
+Candidate: .class.superclass.classLoader.resources.context.manager.domain
+-------------------------org.apache.catalina.core.StandardEngine
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.jvmRoute
+-------------------------org.apache.catalina.core.StandardEngine
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.defaultHost
+-------------------------org.apache.catalina.core.StandardEngine
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.backgroundProcessorDelay
+-------------------------org.apache.catalina.core.StandardEngine
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.startStopThreads
+-------------------------org.apache.catalina.core.StandardEngine
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.startChildren
+-------------------------org.apache.catalina.core.StandardEngine
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.name
+-------------------------org.apache.catalina.core.StandardEngine
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.domain
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.writable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.parentFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.parentFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.parentFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.catalinaHome.parentFile.parentFile.parentFile.writable
+-------------------------org.apache.catalina.core.StandardService
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.name
+-------------------------org.apache.catalina.core.StandardService
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.domain
+-------------------------org.apache.catalina.core.StandardServer
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.server.address
+-------------------------org.apache.catalina.core.StandardServer
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.server.shutdown
+-------------------------org.apache.catalina.core.StandardServer
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.server.port
+-------------------------org.apache.catalina.core.StandardServer
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.server.domain
+-------------------------org.apache.catalina.deploy.NamingResourcesImpl
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.server.globalNamingResources.domain
+-------------------------org.apache.naming.NamingContext
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.server.globalNamingContext.exceptionOnFailedWrite
+-------------------------org.apache.catalina.startup.Catalina
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.server.catalina.await
+-------------------------org.apache.catalina.startup.Catalina
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.server.catalina.useShutdownHook
+-------------------------org.apache.catalina.startup.Catalina
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.server.catalina.configFile
+-------------------------org.apache.catalina.startup.Catalina
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.server.catalina.useNaming
+-------------------------org.apache.catalina.mapper.Mapper
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.service.mapper.defaultHostName
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.failureCount
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.lockOutTime
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.cacheSize
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.cacheRemovalWarningTime
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.allRolesMode
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.digest
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.digestEncoding
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.validate
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.x509UsernameRetrieverClassName
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.stripRealmForGss
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.realmPath
+-------------------------org.apache.catalina.realm.LockOutRealm
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.domain
+-------------------------org.apache.catalina.realm.MessageDigestCredentialHandler
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.credentialHandler.encoding
+-------------------------org.apache.catalina.realm.MessageDigestCredentialHandler
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.credentialHandler.algorithm
+-------------------------org.apache.catalina.realm.MessageDigestCredentialHandler
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.credentialHandler.iterations
+-------------------------org.apache.catalina.realm.MessageDigestCredentialHandler
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.credentialHandler.saltLength
+-------------------------org.apache.catalina.realm.MessageDigestCredentialHandler
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.realm.credentialHandler.logInvalidStoredCredentials
+-------------------------org.apache.catalina.core.StandardEngineValve
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.pipeline.basic.asyncSupported
+-------------------------org.apache.catalina.core.StandardEngineValve
+Candidate: .class.superclass.classLoader.resources.context.manager.engine.pipeline.basic.domain
+-------------------------org.apache.catalina.util.StandardSessionIdGenerator
+Candidate: .class.superclass.classLoader.resources.context.manager.sessionIdGenerator.secureRandomClass
+-------------------------org.apache.catalina.util.StandardSessionIdGenerator
+Candidate: .class.superclass.classLoader.resources.context.manager.sessionIdGenerator.secureRandomAlgorithm
+-------------------------org.apache.catalina.util.StandardSessionIdGenerator
+Candidate: .class.superclass.classLoader.resources.context.manager.sessionIdGenerator.secureRandomProvider
+-------------------------org.apache.catalina.util.StandardSessionIdGenerator
+Candidate: .class.superclass.classLoader.resources.context.manager.sessionIdGenerator.jvmRoute
+-------------------------org.apache.catalina.util.StandardSessionIdGenerator
+Candidate: .class.superclass.classLoader.resources.context.manager.sessionIdGenerator.sessionIdLength
+-------------------------org.apache.catalina.deploy.NamingResourcesImpl
+Candidate: .class.superclass.classLoader.resources.context.namingResources.domain
+-------------------------org.apache.tomcat.util.descriptor.web.LoginConfig
+Candidate: .class.superclass.classLoader.resources.context.loginConfig.loginPage
+-------------------------org.apache.tomcat.util.descriptor.web.LoginConfig
+Candidate: .class.superclass.classLoader.resources.context.loginConfig.errorPage
+-------------------------org.apache.tomcat.util.descriptor.web.LoginConfig
+Candidate: .class.superclass.classLoader.resources.context.loginConfig.realmName
+-------------------------org.apache.tomcat.util.descriptor.web.LoginConfig
+Candidate: .class.superclass.classLoader.resources.context.loginConfig.authMethod
+-------------------------org.apache.tomcat.util.scan.StandardJarScanner
+Candidate: .class.superclass.classLoader.resources.context.jarScanner.scanAllDirectories
+-------------------------org.apache.tomcat.util.scan.StandardJarScanner
+Candidate: .class.superclass.classLoader.resources.context.jarScanner.scanBootstrapClassPath
+-------------------------org.apache.tomcat.util.scan.StandardJarScanner
+Candidate: .class.superclass.classLoader.resources.context.jarScanner.scanClassPath
+-------------------------org.apache.tomcat.util.scan.StandardJarScanner
+Candidate: .class.superclass.classLoader.resources.context.jarScanner.scanAllFiles
+-------------------------org.apache.tomcat.util.scan.StandardJarScanFilter
+Candidate: .class.superclass.classLoader.resources.context.jarScanner.jarScanFilter.tldSkip
+-------------------------org.apache.tomcat.util.scan.StandardJarScanFilter
+Candidate: .class.superclass.classLoader.resources.context.jarScanner.jarScanFilter.tldScan
+-------------------------org.apache.tomcat.util.scan.StandardJarScanFilter
+Candidate: .class.superclass.classLoader.resources.context.jarScanner.jarScanFilter.defaultTldScan
+-------------------------org.apache.tomcat.util.scan.StandardJarScanFilter
+Candidate: .class.superclass.classLoader.resources.context.jarScanner.jarScanFilter.pluggabilitySkip
+-------------------------org.apache.tomcat.util.scan.StandardJarScanFilter
+Candidate: .class.superclass.classLoader.resources.context.jarScanner.jarScanFilter.pluggabilityScan
+-------------------------org.apache.tomcat.util.scan.StandardJarScanFilter
+Candidate: .class.superclass.classLoader.resources.context.jarScanner.jarScanFilter.defaultPluggabilityScan
+-------------------------org.apache.catalina.authenticator.NonLoginAuthenticator
+Candidate: .class.superclass.classLoader.resources.context.authenticator.alwaysUseSession
+-------------------------org.apache.catalina.authenticator.NonLoginAuthenticator
+Candidate: .class.superclass.classLoader.resources.context.authenticator.disableProxyCaching
+-------------------------org.apache.catalina.authenticator.NonLoginAuthenticator
+Candidate: .class.superclass.classLoader.resources.context.authenticator.securePagesWithPragma
+-------------------------org.apache.catalina.authenticator.NonLoginAuthenticator
+Candidate: .class.superclass.classLoader.resources.context.authenticator.changeSessionIdOnAuthentication
+-------------------------org.apache.catalina.authenticator.NonLoginAuthenticator
+Candidate: .class.superclass.classLoader.resources.context.authenticator.secureRandomClass
+-------------------------org.apache.catalina.authenticator.NonLoginAuthenticator
+Candidate: .class.superclass.classLoader.resources.context.authenticator.secureRandomAlgorithm
+-------------------------org.apache.catalina.authenticator.NonLoginAuthenticator
+Candidate: .class.superclass.classLoader.resources.context.authenticator.secureRandomProvider
+-------------------------org.apache.catalina.authenticator.NonLoginAuthenticator
+Candidate: .class.superclass.classLoader.resources.context.authenticator.cache
+-------------------------org.apache.catalina.authenticator.NonLoginAuthenticator
+Candidate: .class.superclass.classLoader.resources.context.authenticator.asyncSupported
+-------------------------org.apache.catalina.authenticator.NonLoginAuthenticator
+Candidate: .class.superclass.classLoader.resources.context.authenticator.domain
+-------------------------org.apache.catalina.core.StandardContextValve
+Candidate: .class.superclass.classLoader.resources.context.authenticator.next.asyncSupported
+-------------------------org.apache.catalina.core.StandardContextValve
+Candidate: .class.superclass.classLoader.resources.context.authenticator.next.domain
+-------------------------java.lang.reflect.Method
+Candidate: .class.superclass.classLoader.resources.context.servletContext.initParameterNames.class.enclosingMethod.accessible
+-------------------------org.apache.catalina.core.ApplicationSessionCookieConfig
+Candidate: .class.superclass.classLoader.resources.context.servletContext.sessionCookieConfig.path
+-------------------------org.apache.catalina.core.ApplicationSessionCookieConfig
+Candidate: .class.superclass.classLoader.resources.context.servletContext.sessionCookieConfig.httpOnly
+-------------------------org.apache.catalina.core.ApplicationSessionCookieConfig
+Candidate: .class.superclass.classLoader.resources.context.servletContext.sessionCookieConfig.maxAge
+-------------------------org.apache.catalina.core.ApplicationSessionCookieConfig
+Candidate: .class.superclass.classLoader.resources.context.servletContext.sessionCookieConfig.comment
+-------------------------org.apache.catalina.core.ApplicationSessionCookieConfig
+Candidate: .class.superclass.classLoader.resources.context.servletContext.sessionCookieConfig.domain
+-------------------------org.apache.catalina.core.ApplicationSessionCookieConfig
+Candidate: .class.superclass.classLoader.resources.context.servletContext.sessionCookieConfig.secure
+-------------------------org.apache.catalina.core.ApplicationSessionCookieConfig
+Candidate: .class.superclass.classLoader.resources.context.servletContext.sessionCookieConfig.name
+-------------------------org.apache.tomcat.util.http.LegacyCookieProcessor
+Candidate: .class.superclass.classLoader.resources.context.cookieProcessor.forwardSlashIsSeparator
+-------------------------org.apache.tomcat.util.http.LegacyCookieProcessor
+Candidate: .class.superclass.classLoader.resources.context.cookieProcessor.alwaysAddExpires
+-------------------------org.apache.tomcat.util.http.LegacyCookieProcessor
+Candidate: .class.superclass.classLoader.resources.context.cookieProcessor.allowEqualsInValue
+-------------------------org.apache.tomcat.util.http.LegacyCookieProcessor
+Candidate: .class.superclass.classLoader.resources.context.cookieProcessor.allowNameOnly
+-------------------------org.apache.tomcat.util.http.LegacyCookieProcessor
+Candidate: .class.superclass.classLoader.resources.context.cookieProcessor.allowHttpSepsInV0
+-------------------------org.apache.tomcat.util.http.LegacyCookieProcessor
+Candidate: .class.superclass.classLoader.resources.context.cookieProcessor.preserveCookieHeader
+-------------------------org.apache.catalina.loader.WebappLoader
+Candidate: .class.superclass.classLoader.resources.context.loader.loaderClass
+-------------------------org.apache.catalina.loader.WebappLoader
+Candidate: .class.superclass.classLoader.resources.context.loader.reloadable
+-------------------------org.apache.catalina.loader.WebappLoader
+Candidate: .class.superclass.classLoader.resources.context.loader.delegate
+-------------------------org.apache.catalina.loader.WebappLoader
+Candidate: .class.superclass.classLoader.resources.context.loader.domain
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.undeployOldVersions
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.appBase
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.xmlBase
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.createDirs
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.autoDeploy
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.configClass
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.contextClass
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.deployOnStartup
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.deployXML
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.copyXML
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.errorReportValveClass
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.unpackWARs
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.workDir
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.deployIgnore
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.failCtxIfServletStartFails
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.name
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.backgroundProcessorDelay
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.startStopThreads
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.startChildren
+-------------------------org.apache.catalina.core.StandardHost
+Candidate: .class.superclass.classLoader.resources.context.parent.domain
+-------------------------java.util.concurrent.ThreadPoolExecutor
+Candidate: .class.superclass.classLoader.resources.context.parent.startStopExecutor.corePoolSize
+-------------------------java.util.concurrent.ThreadPoolExecutor
+Candidate: .class.superclass.classLoader.resources.context.parent.startStopExecutor.maximumPoolSize
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.appBaseFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.appBaseFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.appBaseFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.configBaseFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.configBaseFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.configBaseFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.configBaseFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.configBaseFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.configBaseFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.configBaseFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.configBaseFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.resources.context.parent.configBaseFile.parentFile.parentFile.writable
+-------------------------org.apache.catalina.core.StandardHostValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.basic.asyncSupported
+-------------------------org.apache.catalina.core.StandardHostValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.basic.domain
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.encoding
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.rotatable
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.renameOnRotate
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.buffered
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.suffix
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.fileDateFormat
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.directory
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.checkExists
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.prefix
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.locale
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.enabled
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.requestAttributesEnabled
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.pattern
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.condition
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.conditionUnless
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.conditionIf
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.asyncSupported
+-------------------------org.apache.catalina.valves.AccessLogValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.domain
+-------------------------org.apache.catalina.valves.ErrorReportValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.next.showReport
+-------------------------org.apache.catalina.valves.ErrorReportValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.next.showServerInfo
+-------------------------org.apache.catalina.valves.ErrorReportValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.next.asyncSupported
+-------------------------org.apache.catalina.valves.ErrorReportValve
+Candidate: .class.superclass.classLoader.resources.context.parent.pipeline.first.next.domain
+-------------------------org.apache.catalina.core.AccessLogAdapter
+Candidate: .class.superclass.classLoader.resources.context.parent.accessLog.requestAttributesEnabled

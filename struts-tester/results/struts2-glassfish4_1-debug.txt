@@ -1,0 +1,56 @@
+-------------------------org.glassfish.web.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.antiJARLocking
+-------------------------org.glassfish.web.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.jarPath
+-------------------------org.glassfish.web.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.clearReferencesStatic
+-------------------------org.glassfish.web.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.useMyFaces
+-------------------------org.glassfish.web.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.debug
+-------------------------org.glassfish.web.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.delegate
+-------------------------org.glassfish.web.loader.WebappClassLoader
+Candidate: .class.superclass.classLoader.defaultAssertionStatus
+-------------------------org.apache.naming.resources.WebDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.docBase
+-------------------------org.apache.naming.resources.WebDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.allowLinking
+-------------------------org.apache.naming.resources.WebDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.caseSensitive
+-------------------------org.apache.naming.resources.WebDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.cacheMaxSize
+-------------------------org.apache.naming.resources.WebDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.cached
+-------------------------org.apache.naming.resources.WebDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.cacheTTL
+-------------------------org.apache.naming.resources.WebDirContext
+Candidate: .class.superclass.classLoader.resources.dirContext.debug
+-------------------------org.apache.felix.framework.BundleWiringImpl$BundleClassLoaderJava5
+Candidate: .class.superclass.classLoader.resources.dirContext.class.superclass.superclass.classLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$AppClassLoader
+Candidate: .class.superclass.classLoader.resources.dirContext.class.superclass.superclass.classLoader.systemClassLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$ExtClassLoader
+Candidate: .class.superclass.classLoader.resources.dirContext.class.superclass.superclass.classLoader.systemClassLoader.parent.defaultAssertionStatus
+-------------------------java.net.URLClassLoader
+Candidate: .class.superclass.classLoader.resources.dirContext.class.superclass.superclass.classLoader.parent.defaultAssertionStatus
+-------------------------org.apache.naming.resources.ResourceCache
+Candidate: .class.superclass.classLoader.resources.cache.cacheMaxSize
+-------------------------org.apache.naming.resources.ResourceCache
+Candidate: .class.superclass.classLoader.resources.cache.maxAllocateIterations
+-------------------------org.apache.naming.resources.ResourceCache
+Candidate: .class.superclass.classLoader.resources.cache.spareNotFoundEntries
+-------------------------org.glassfish.internal.api.DelegatingClassLoader
+Candidate: .class.superclass.classLoader.parent.name
+-------------------------org.glassfish.internal.api.DelegatingClassLoader
+Candidate: .class.superclass.classLoader.parent.defaultAssertionStatus
+-------------------------java.net.URLClassLoader
+Candidate: .class.superclass.classLoader.parent.parent.defaultAssertionStatus
+-------------------------com.sun.enterprise.v3.server.APIClassLoaderServiceImpl$APIClassLoader
+Candidate: .class.superclass.classLoader.parent.parent.parent.defaultAssertionStatus
+-------------------------org.apache.felix.framework.BundleWiringImpl$BundleClassLoaderJava5
+Candidate: .class.superclass.classLoader.parent.parent.parent.class.classLoader.defaultAssertionStatus
+-------------------------org.apache.felix.framework.BundleWiringImpl$BundleClassLoaderJava5
+Candidate: .class.superclass.classLoader.parent.class.classLoader.defaultAssertionStatus
+-------------------------org.apache.felix.framework.BundleWiringImpl$BundleClassLoaderJava5
+Candidate: .class.superclass.classLoader.class.classLoader.defaultAssertionStatus

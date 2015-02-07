@@ -1,0 +1,55 @@
+div.center {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.box {
+    padding:10px;
+    text-align:center;
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+b {
+    font-size: 40px;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+form {
+    font-size: 25px;
+}
+
+input {
+    font-size: 20px;
+    display: inline-block;
+    float: left;
+
+}
+
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 200px;
+    text-align: right;
+}
+
+input[type=submit] {
+    display: inline-block;
+    width: 10em;  
+    height: 7em;
+    font-size: 20px;
+    float: center;
+}

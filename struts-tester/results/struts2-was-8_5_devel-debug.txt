@@ -1,0 +1,40 @@
+-------------------------com.ibm.ws.classloading.internal.AppClassLoader
+Candidate: .class.superclass.classLoader.defaultAssertionStatus
+-------------------------com.ibm.ws.classloading.internal.ShadowClassLoader
+Candidate: .class.superclass.classLoader.throwawayClassLoader.defaultAssertionStatus
+-------------------------org.eclipse.osgi.internal.loader.EquinoxClassLoader
+Candidate: .class.superclass.classLoader.key.class.classLoader.defaultAssertionStatus
+-------------------------com.ibm.ws.kernel.internal.classloader.BootstrapChildFirstJarClassloader
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.version.class.classLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$AppClassLoader
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.version.class.classLoader.systemClassLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$ExtClassLoader
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.version.class.classLoader.systemClassLoader.parent.defaultAssertionStatus
+-------------------------org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisions.module.startLevel
+-------------------------org.eclipse.osgi.internal.framework.legacy.StartLevelImpl
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisions.bundle.bundleContext.container.startLevel.initialBundleStartLevel
+-------------------------org.eclipse.osgi.internal.framework.legacy.StartLevelImpl
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisions.bundle.bundleContext.container.startLevel.startLevel
+-------------------------org.eclipse.osgi.internal.framework.ContextFinder
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisions.bundle.bundleContext.container.contextFinder.defaultAssertionStatus
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisionInfo.bundleFile.baseFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisionInfo.bundleFile.baseFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisionInfo.bundleFile.baseFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisionInfo.bundleFile.baseFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisionInfo.bundleFile.baseFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisionInfo.bundleFile.baseFile.parentFile.writable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisionInfo.bundleFile.baseFile.parentFile.parentFile.executable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisionInfo.bundleFile.baseFile.parentFile.parentFile.readable
+-------------------------java.io.File
+Candidate: .class.superclass.classLoader.key.class.classLoader.bundleLoader.wiring.revision.revisionInfo.bundleFile.baseFile.parentFile.parentFile.writable
+-------------------------com.ibm.ws.classloading.internal.GatewayClassLoader
+Candidate: .class.superclass.classLoader.parent.defaultAssertionStatus

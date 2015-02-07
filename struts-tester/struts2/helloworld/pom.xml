@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>helloworld</artifactId>
+	<groupId>struts.apache.org</groupId>
+    	<version>1.0.0</version>
+	<packaging>war</packaging>
+	<name>Hello World Struts 2 Example Application</name>
+	<description>Hello world example application for the 
+  Struts 2 Getting Started tutorials</description>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <struts2.version>2.3.16.1</struts2.version>
+        <log4j.version>1.2.17</log4j.version>
+    </properties>
+
+    <developers>
+        <developer>
+            <id>bphillips</id>
+            <name>Bruce Phillips</name>
+            <email>bphillips@ku.edu</email>
+            <organization>Apache Struts 2 Committer</organization>
+            <roles>
+                <role>Committer</role>
+            </roles>
+        </developer>
+    </developers>
+    <dependencies>
+
+        <dependency>
+            <groupId>org.apache.struts</groupId>
+            <artifactId>struts2-core</artifactId>
+            <version>${struts2.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>${log4j.version}</version>
+        </dependency>
+
+    </dependencies>
+    
+    <build>
+        <plugins>
+    
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>2.3.2</version>
+                <configuration>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                </configuration>
+    
+            </plugin>
+            
+        </plugins>
+	
+		<finalName>hello_world</finalName>
+    </build>
+</project>

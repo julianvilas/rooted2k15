@@ -1,0 +1,14 @@
+-------------------------weblogic.utils.classloaders.ChangeAwareClassLoader
+Candidate: .class.superclass.classLoader.childFirst
+-------------------------weblogic.utils.classloaders.ChangeAwareClassLoader
+Candidate: .class.superclass.classLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$AppClassLoader
+Candidate: .class.superclass.classLoader.classFinder.class.classLoader.defaultAssertionStatus
+-------------------------sun.misc.Launcher$ExtClassLoader
+Candidate: .class.superclass.classLoader.classFinder.class.classLoader.parent.defaultAssertionStatus
+-------------------------weblogic.utils.classloaders.GenericClassLoader
+Candidate: .class.superclass.classLoader.parent.defaultAssertionStatus
+-------------------------weblogic.utils.classloaders.FilteringClassLoader
+Candidate: .class.superclass.classLoader.parent.parent.defaultAssertionStatus
+-------------------------weblogic.utils.classloaders.GenericClassLoader
+Candidate: .class.superclass.classLoader.parent.parent.parent.defaultAssertionStatus
